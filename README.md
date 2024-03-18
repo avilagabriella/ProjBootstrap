@@ -1,8 +1,8 @@
-# Projeto Escola
-## Projeto Bootstrap de vendas de cursos de Gastronomia
+# Projeto Bootstrap
+## Projeto Bootstrap de Loja de brinquedo
 
 # Sobre o Projeto:
-- Esse é um projeto de uma escola de Gastronomia, que tem 4 páginas: uma home, cursos, matricula e um modal de contato.
+- Esse é um projeto de uma loja de brinquedo, que tem 4 páginas: uma home, produto, cadrastro e um modal de contato.
 
 # Linguagens:
 - HTML
