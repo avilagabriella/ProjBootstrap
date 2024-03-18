@@ -1,4 +1,4 @@
-# Projeto Balãozinho
+# 🎈 Projeto Balãozinho 🎈
 ## Projeto Bootstrap de uma loja de brinquedos
 
 # Sobre o Projeto:
