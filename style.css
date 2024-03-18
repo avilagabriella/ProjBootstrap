@@ -83,15 +83,15 @@ svg{
 .button-link {
     display: inline-block;
     padding: 10px 20px;
-    border-radius: 5px;
-    background-color: #0e0e44;
+    border-radius: 25px;
+    background-color: #fade73;
     color: #fff; 
     text-decoration: none; 
     transition: all 0.3s ease; 
   }
   
   .button-link:hover {
-    background-color: #0e0e44;
+    background-color: #f9f8bb;
   }
 .feature {
     max-width: 1350px;
@@ -109,7 +109,7 @@ svg{
 .feature p {
     text-align: justify;
     font-weight: bolder;
-    color:  #686687;
+    color:  #362dba;
     margin-top: 30px;
 }
 
@@ -139,7 +139,7 @@ svg{
 
 
 .card-text {
-    color: #0a2442;
+    color: #0f1749;
 }
 
 .card button {
@@ -160,8 +160,8 @@ svg{
 
 .custom-form {
     background-color: #f8f9fa; 
-    border: 1px solid #0f0d30; 
-    border-radius: 10px; 
+    border: 1px solid #bababa; 
+    border-radius: 55px; 
     padding: 30px; 
     margin: 50px auto; 
     max-width: 500px; 
@@ -169,12 +169,13 @@ svg{
 .custom-form h2 {
     margin-bottom: 20px; 
     text-align: center;
-    color: #0f0d30;
+    color: #fade73;
 }
 .custom-form label{
-    color: #0f0d30;
+    color: #882727;
 }
 .custom-form  button{
     margin-left: 180px;
-   background-color:  #0f0d30;
+    border-radius: 30px;
+   background-color:  #fade73;
 }
